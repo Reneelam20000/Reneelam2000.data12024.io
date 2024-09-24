@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8"/>
-</head>
+
  theme: Cayman
 <body>
 <h1>DATA 1</h1>
