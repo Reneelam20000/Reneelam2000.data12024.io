@@ -1,30 +1,3 @@
-
- theme: Cayman
-<body>
-<h1>DATA 1</h1>
-<p>On this weppage the assignments of Datagroup 13 are being posted</p>
-<p>Group 13 exist of the following people:</p>  
-<p>Mannan Gupta;
-
-Haksan Sadak;
-
-Nils Hollestelle;
-
-Edwin smits;
-
-Renee Lam;
-
-Repository:
-<https://github.com/mannan272/data1.git>
-
-Github page:
-<data1/README.md at Reneelam20000 · mannan272/data1 (github.com)>
-
-The homework from the Assignment 2 notebook from Lab 1:
-<https://mannan272.github.io/data1/lab-01/Assignment2.html>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,7 +5,7 @@ The homework from the Assignment 2 notebook from Lab 1:
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Kinsta User</title>
+        <title>Data 1, group 13</title>
         <!-- CSS: Inside head tag -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
             integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
@@ -44,7 +17,7 @@ The homework from the Assignment 2 notebook from Lab 1:
         <nav class="navbar navbar-dark navbar-expand-lg bg-dark ">
             <div class="container-fluid">
                 <div class="mx-4">
-                    <a class="navbar-brand" href="#">Kinsta User</a>
+                    <a class="navbar-brand" href="#">Data 1, group 13</a>
                 </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
@@ -71,14 +44,27 @@ The homework from the Assignment 2 notebook from Lab 1:
                 </div>
                 <div class="col-lg mx-2 align-self-center">
                     <div class="my-3">
-                        <h1 class="text-center">I'm a Kinsta User</h1>
-                        <p>As a passionate software developer, I am deeply enthusiastic about creating and
-                            developing software applications. I am constantly learning and experimenting with new
-                            technologies and approaches, and I have a strong desire to create innovative and effective
-                            solutions to complex problems. I am driven by curiosity and love for problem-solving, and
-                            I
-                            am committed to producing high-quality, well-designed software that meets the needs of
-                            users.
+                        <h1 class="text-center">Data 1, goup 13</h1>
+                        <p> On this weppage the assignments of Datagroup 13 are being posted Group 13 exist of the following people: 
+<p>Mannan Gupta;<p>
+
+<p>Haksan Sadak;<p>
+
+<p>Nils Hollestelle;<p>
+
+<p>Edwin smits;<p>
+
+<p>Renee Lam;<p>
+
+<p>Repository:<p>
+<https://github.com/mannan272/data1.git>
+
+<p>Github page:<p>
+<data1/README.md at Reneelam20000 · mannan272/data1 (github.com)>
+
+<p>The homework from the Assignment 2 notebook from Lab 1:<p>
+<https://mannan272.github.io/data1/lab-01/Assignment2.html>
+ 
                         </p>
                     </div>
                 </div>
