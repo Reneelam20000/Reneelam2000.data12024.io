@@ -46,15 +46,11 @@
                     <div class="my-3">
                         <h1 class="text-center">Data 1, goup 13</h1>
                         <p> On this weppage the assignments of Datagroup 13 are being posted Group 13 exist of the following people: 
-<p>Mannan Gupta;<p>
-
-<p>Haksan Sadak;<p>
-
-<p>Nils Hollestelle;<p>
-
-<p>Edwin smits;<p>
-
-<p>Renee Lam;<p>
+                        <p>Mannan Gupta;<p>
+                        <p>Haksan Sadak;<p>
+                        <p>Nils Hollestelle;<p>
+                        <p>Edwin smits;<p>
+                        <p>Renee Lam;<p>
 
 <p>Repository:<p>
 <https://github.com/mannan272/data1.git>
@@ -65,53 +61,6 @@
 <p>The homework from the Assignment 2 notebook from Lab 1:<p>
 <https://mannan272.github.io/data1/lab-01/Assignment2.html>
  
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="my-4">
-                <div class="text-center mb-4">
-                    <h1>My Skills</h1>
-                </div>
-                <div class="row ">
-                    <style>
-                        i {
-                            font-size: 4em;
-                        }
-                    </style>
-                    <!-- Skills -->
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>WordPress</h4>
-                            <i class="devicon-wordpress-plain"></i>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>Django</h4>
-                            <i class="devicon-django-plain"></i>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>Python</h4>
-                            <i class="devicon-python-plain"></i>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="text-center">
-                            <h4>GitHub</h4>
-                            <i class="devicon-github-original"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- JavaScript: Above <body>  -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-            crossorigin="anonymous"></script>
-    </body>
 
 </html>
 <https://github.com/mannan272/data1/blob/main/lab-01/Assignment2.ipynb>
